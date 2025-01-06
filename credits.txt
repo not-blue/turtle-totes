@@ -1,0 +1,9 @@
+Pack name:  Turtle Totes
+Pack URL:   https://modrinth.com/datapack/turtle-totes
+Author:     Nicole / notblue / nicoleisnotblue
+Author URL: https://modrinth.com/user/notblue   
+
+Initial data pack generated with Misode Data Pack Generator (https://misode.github.io/).
+Pack maintained using Visual Studio Code.
+
+This pack was inspired by VoodooBeard's Turtle Boxes datapack. You can find VoodooBeard's packs at https://mc.voodoobeard.com.

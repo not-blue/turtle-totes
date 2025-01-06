@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Use turtle shells and scutes to craft turtle totes that carry your gear",
+    "pack_format": 57,
+    "supported_formats": {
+      "min_inclusive": 57,
+      "max_inclusive": 999
+    }
+  }
+}

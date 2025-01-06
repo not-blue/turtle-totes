@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "turtle_tote:turtle_tote"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_turtle_shell": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:turtle_helmet"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_turtle_shell"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "turtle_tote:turtle_tote"
+    ]
+  }
+}

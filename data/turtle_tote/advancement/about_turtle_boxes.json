@@ -1,0 +1,17 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:green_shulker_box"
+    },
+    "title": "Turtle Totes",
+    "description": "Use turtle shells and scutes to craft turtle totes that act like shulker boxes",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "global:notblue",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

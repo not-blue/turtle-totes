@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "cbc",
+    " a "
+  ],
+  "key": {
+    "a": [
+      "minecraft:turtle_helmet"
+    ],
+    "b": [
+      "minecraft:barrel"
+    ],
+    "c": [
+      "minecraft:turtle_scute"
+    ]
+  },
+  "result": {
+    "id": "minecraft:green_shulker_box",
+    "components": {
+      "minecraft:custom_name": "{\"text\":\"Turtle Tote\",\"italic\":false}"
+    }
+  }
+}
