@@ -6,5 +6,16 @@
       "min_inclusive": 57,
       "max_inclusive": 999
     }
-  }
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": {
+          "min_inclusive": 71,
+          "max_inclusive": 999
+        },
+        "directory": "overlay_71"
+      }
+    ]
+	}
 }
