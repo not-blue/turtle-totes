@@ -6,4 +6,6 @@ Author URL: https://modrinth.com/user/notblue
 Initial data pack generated with Misode Data Pack Generator (https://misode.github.io/).
 Pack maintained using Visual Studio Code.
 
+Thank you to kgadberry on github for the item_name fix.
+
 This pack was inspired by VoodooBeard's Turtle Boxes datapack. You can find VoodooBeard's packs at https://mc.voodoobeard.com.
